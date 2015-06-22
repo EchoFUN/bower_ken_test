@@ -1,0 +1,24 @@
+{
+  "directory": "src/main/webapp/static/",
+  "name": "bower_ken_test",
+  "version": "0.0.0",
+  "main": "entry.js",
+  "authors": [
+    "xukai <xukai@meituan.com>"
+  ],
+  "keywords": [
+    "learn"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.18"
+  }
+}
